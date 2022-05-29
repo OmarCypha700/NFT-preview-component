@@ -4,7 +4,9 @@
 
 ### This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
-Designed with _HTML_ and _CSS_ only.
+### Built with
+- Semantic HTML5 markup
+- CSS custom properties
 
 ## Deployed with 
  [Netlify](https://www.netlify.com/)
@@ -24,6 +26,8 @@ Designed with _HTML_ and _CSS_ only.
 - Live Site URL: [Live site](https://nftcypha.netlify.app/)
 - Solution URL: [Solution in Github](https://github.com/OmarCypha700/NFT-preview-component)
 
+### Deployed with
+- Netlify
 
 ## What I learned
 
@@ -57,5 +61,9 @@ See below:
 }
 ```
 
-## Other links
-My Github profile: [Github profile]()
+**Note:** I will be redesigning these challenges with **Figma** check them out on my [Twitter](https://www.twitter.com/OmarCypha) page.
+
+## Author
+- Github - [@Omarcypha700](https://github.com/OmarCypha700)
+- Frontend Mentor - [@OmarCypha700](https://www.frontendmentor.io/profile/OmarCypha700)
+- Twitter - [@OmarCypha](https://www.twitter.com/OmarCypha)
