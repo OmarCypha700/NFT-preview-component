@@ -99,7 +99,7 @@ view a:hover{
     opacity:0.95;
 }
 
-.avatar_img{
+.avatar img{
     height: 40px;
     padding-left: 10px;
 }
@@ -113,14 +113,16 @@ a:hover{
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%);
+    color: #8BACD9;
  }
 
 .attribution a:hover{
     color:#00FFF8;
 }
 
-.attribution p{
+.attribution{
+    color: hsl(0, 0%, 100%);
+    margin-top: 1rem;
     font-size: 1rem; 
     text-align: center; 
 }

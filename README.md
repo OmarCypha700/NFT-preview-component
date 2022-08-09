@@ -67,3 +67,6 @@ See below:
 - Github - [@Omarcypha700](https://github.com/OmarCypha700)
 - Frontend Mentor - [@OmarCypha700](https://www.frontendmentor.io/profile/OmarCypha700)
 - Twitter - [@OmarCypha](https://www.twitter.com/OmarCypha)
+
+# Acknowledgement
+- Challenge by [Frontend Mentor](https://www.frontendmentor.io)
